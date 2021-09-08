@@ -206,6 +206,10 @@ footer a {
     justify-content: space-between;
   }
 
+  .navs a {
+    color: gray;
+  }
+
   li {
     padding: 20px 0;
   }
@@ -387,4 +391,3 @@ footer a {
     line-height: 3em;
   }
 }
-
