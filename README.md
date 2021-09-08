@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-###live site here https://easybank-landign-page.netlify.app/
+### live site here https://easybank-landign-page.netlify.app/
 
 ## Available Scripts
 
